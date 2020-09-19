@@ -4,7 +4,7 @@ if not L then return end
 
 L["plugin_name"] = "WoWChatBot"
 L["autoInvite"] = "Автоматическое приглашение"
-L["autoInvite_enable"] = "Включить"
+L["autoInvite_enable"] = "Включено"
 L["autoInvite_text"] = "Ключевые слова-триггеры(разделены по ,)"
 L["autoReply"] = "Автоответчик"
 L["autoReply_enableWhisper"] = "Автоответчик в ЛС"
